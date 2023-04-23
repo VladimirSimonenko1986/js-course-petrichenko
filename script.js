@@ -77,8 +77,9 @@ const personalMovieDB = {
    }
 };
 
-let a = 20;
 
+
+let b = 5;
 
 
 
